@@ -1,0 +1,1 @@
+# malaga-asset-management
