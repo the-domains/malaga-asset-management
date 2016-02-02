@@ -1,0 +1,28 @@
+name: Malaga Asset Management
+favicon: null
+layout_spectrum: 0.5000006752088666
+typography_spectrum: 0.5153210635762662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.57856355025433
+  lightness: 0.02888138429261744
+  saturation: 0.6960506057366729
+  rhythmicContrast: 0.8369033329654485
+purpose: []
